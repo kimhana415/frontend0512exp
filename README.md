@@ -1,2 +1,2 @@
 # frontend0512exp
-exq 미션
+exp 미션
